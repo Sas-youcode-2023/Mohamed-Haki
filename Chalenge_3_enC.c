@@ -1,6 +1,6 @@
 #include <stdio.h> //-----------------------Inclure la bibliothèque STanDard Input Output qui nous permetons d'utilisons, printf et scanf-------------------------------------
-#include <stdlib.h>
-#include <math.h>
+#include <stdlib.h>//-----------------------Inclure la bibliothèque standard library----------------------------------------------------------------
+
                     
                     
                     
