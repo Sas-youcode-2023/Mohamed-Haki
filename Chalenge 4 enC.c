@@ -9,8 +9,8 @@ char 	verifier[]="AEYUIOWaeyuiow";
 
 //----------------------------------------------la fonction qui fait supprimer les voyelles dans une chaine de caractere et de lui remplacer par des espaces-------------------
 void  replace (char T[100]) {
-for(i=0;i< strlen(verifier) ;i++){
-	for(j=0;j< strlen(verifier) ;j++){
+for(i=0;i< strlen(Tph) ;i++){
+	for(j=0;j< strlen(Tph) ;j++){
 	if(T[i]==verifier[j])
 		T[i]=' ';
 	}
